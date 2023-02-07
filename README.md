@@ -1,5 +1,5 @@
 # varunsrepo
-#I developed a clock using javascript
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
